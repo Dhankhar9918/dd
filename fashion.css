@@ -1,0 +1,27 @@
+body{background-color: #e4c1e6;
+}
+h1 {
+    color: #041616;
+    text-align: center;
+}
+h2 {
+    color: #66bfbf;
+    
+        text-align: left;
+    
+    
+}
+p {
+    color: blue;
+}
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-width: 10px;
+    border-color: grey;
+    width: 20%;
+}
+img {
+    height: 500px;
+    width: 250px;
+}
